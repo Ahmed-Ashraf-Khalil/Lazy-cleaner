@@ -28,7 +28,7 @@ from Lazy_cleaner import Clean_Data
 import pandas as pd
 
 Data = pd.read_csv("FileName.csv")
-fill = Lazy_cleaner.fillnan()
+fill = fillnan()
 
 New_Data = fill.simpleimputer(Data)
 ```
