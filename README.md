@@ -3,7 +3,7 @@
 ![lazy](https://user-images.githubusercontent.com/59618586/128797360-b96bb2e6-f7f8-42b5-aed0-a38fbfd37811.png)
 
 ## What it is about :
-***Lazy*** is a python package that cleans your numeric data and that includes correcting data types and class labeling techniques and filling the Null values with more than one method saving the time of coding exeplicit methods.
+***Lazy-cleaner*** is a python package that cleans your numeric data and that includes correcting data types and class labeling techniques and filling the Null values with more than one method saving the time of coding exeplicit methods.
 
 <br/>
 
