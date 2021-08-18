@@ -1,6 +1,6 @@
 # Lazy-cleaner:
 
-![lazy](https://user-images.githubusercontent.com/59618586/128797360-b96bb2e6-f7f8-42b5-aed0-a38fbfd37811.png)
+<img src="https://user-images.githubusercontent.com/59618586/128797360-b96bb2e6-f7f8-42b5-aed0-a38fbfd37811.png" width="250" height="250">
 
 ## What it is about :
 ***Lazy-cleaner*** is a python package that cleans your dataframe and that includes correcting data types and class labeling techniques and filling the Null values with more than one method saving the time of coding exeplicit methods.
