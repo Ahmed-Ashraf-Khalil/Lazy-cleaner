@@ -20,10 +20,10 @@ To install ***Lazy-cleaner*** Package:
 ## How to Use?
 The most simple format of using ***Lazy-cleaner*** is as follow:
 ```python
-from Lazy_cleaner import stat
-from Lazy_cleaner import fillnan
-from Lazy_cleaner import label
-from Lazy_cleaner import Clean_Data
+from Lazy_cleaner.Lazy_cleaner import stat
+from Lazy_cleaner.Lazy_cleaner import fillnan
+from Lazy_cleaner.Lazy_cleaner import label
+from Lazy_cleaner.Lazy_cleaner import Clean_Data
 
 import pandas as pd
 
